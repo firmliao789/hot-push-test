@@ -309,15 +309,15 @@
   },
   {
     "file": "templates/tab-account.html",
-    "hash": "65cde505c022fb1e9696304165fe9234"
+    "hash": "14992cf9e322eba7b25e5756cf97d0ee"
   },
   {
     "file": "templates/tab-chats.html",
-    "hash": "e7f2730d0a75db0c19e21c9ea4055528"
+    "hash": "ec2967b30e941d6b97ffa9efb489cb13"
   },
   {
     "file": "templates/tab-dash.html",
-    "hash": "fe8db2c4f18d6223d6a08ee19bfc8bf7"
+    "hash": "5a6205bc44d2e7a7f46c565beb7ce34f"
   },
   {
     "file": "templates/tabs.html",
