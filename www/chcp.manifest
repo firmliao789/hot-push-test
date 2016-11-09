@@ -33,7 +33,7 @@
   },
   {
     "file": "js/app.js",
-    "hash": "d2456d8c3a3d7ca6815eb81d80a2a6f4"
+    "hash": "e7ccb998ddaf5d185fc5584fde08d8b9"
   },
   {
     "file": "js/controllers.js",
@@ -300,24 +300,28 @@
     "hash": "a3e888fb8cb528ebdbf38073f29d148c"
   },
   {
+    "file": "read",
+    "hash": "051bb64127eb5513490d4e120386d296"
+  },
+  {
     "file": "service-worker.js",
     "hash": "7de431000cd0f19fc38619fdd7314f81"
   },
   {
     "file": "templates/chat-detail.html",
-    "hash": "60939b3c12f5a498b46070c0e9ba6d20"
+    "hash": "2d7611935a285c43bb38285711ea6711"
   },
   {
     "file": "templates/tab-account.html",
-    "hash": "22e5e0344dbeb46e8725d65164d5855a"
+    "hash": "ec5f7001ddc6166a343ab7f26984a4d9"
   },
   {
     "file": "templates/tab-chats.html",
-    "hash": "7d2057255e3f64fdd21c6ac673c7d05b"
+    "hash": "8f6887faf4ac352053dce859f32cda6b"
   },
   {
     "file": "templates/tab-dash.html",
-    "hash": "8cae37663e1155f95f8ffdd5da478ed2"
+    "hash": "564ec21d321970ed0dabd4eeedf5b7bf"
   },
   {
     "file": "templates/tabs.html",
