@@ -59,4 +59,9 @@
     <icon src="resources/ios/icon/icon-small@3x.png" width="87" height="87"/>
   </platform>
   <icon src="resources/ios/icon/icon-small@3x.png"/>
+  <chcp>
+    <native-interface version="1"/>
+    <config-file url="http://192.168.1.125:8080/www/chcp.json"/>
+    <local-development enabled="true"/>
+  </chcp>
 </widget>

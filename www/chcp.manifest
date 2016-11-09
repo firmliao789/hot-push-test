@@ -33,7 +33,7 @@
   },
   {
     "file": "js/app.js",
-    "hash": "e7ccb998ddaf5d185fc5584fde08d8b9"
+    "hash": "d2456d8c3a3d7ca6815eb81d80a2a6f4"
   },
   {
     "file": "js/controllers.js",
@@ -309,15 +309,15 @@
   },
   {
     "file": "templates/tab-account.html",
-    "hash": "14992cf9e322eba7b25e5756cf97d0ee"
+    "hash": "22e5e0344dbeb46e8725d65164d5855a"
   },
   {
     "file": "templates/tab-chats.html",
-    "hash": "ec2967b30e941d6b97ffa9efb489cb13"
+    "hash": "7d2057255e3f64fdd21c6ac673c7d05b"
   },
   {
     "file": "templates/tab-dash.html",
-    "hash": "5a6205bc44d2e7a7f46c565beb7ce34f"
+    "hash": "8cae37663e1155f95f8ffdd5da478ed2"
   },
   {
     "file": "templates/tabs.html",
